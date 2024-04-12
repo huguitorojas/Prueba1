@@ -1,0 +1,8 @@
+#
+#Thu Apr 11 22:20:55 GFT 2024
+org.hugo.InformeFinancieroTrim4=org.springframework.stereotype.Component
+org.hugo.InformeFinancieroTrim3=org.springframework.stereotype.Component
+org.hugo.InformeFinancieroTrim2=org.springframework.stereotype.Component
+org.hugo.InformeFinancieroTrim1=org.springframework.stereotype.Component
+org.hugo.ComercianteExitoso=org.springframework.stereotype.Component
+org.hugo.TareaFinanciero=org.springframework.stereotype.Component
